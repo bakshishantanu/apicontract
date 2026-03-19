@@ -1,14 +1,5 @@
 # 🔗 API Contract Testing Framework
 
-> Auto-generate and run API contract tests directly from OpenAPI/Swagger specifications.
-
-![CI](https://github.com/bakshishantanu/devopsproject-apicontract/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
-![Jest](https://img.shields.io/badge/tested%20with-jest-99424f)
-
----
-
 ## 📌 Overview
 
 This project implements an **API Contract Testing Framework** as part of a DevOps internals assignment. It automatically parses an OpenAPI/Swagger specification and validates that a live API conforms to its defined contracts — covering routes, HTTP methods, response codes, and payload structure.
