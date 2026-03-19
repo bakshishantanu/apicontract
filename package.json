@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "test": "nyc jest tests/unit --coverage",
+  "test": "jest tests/unit --coverage",
   "test:integration": "jest tests/integration",
-  "test:all": "nyc jest --coverage"
+  "test:all": "jest --coverage"
   },
   "repository": {
     "type": "git",
