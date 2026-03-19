@@ -2,7 +2,7 @@
 
 > Auto-generate and run API contract tests directly from OpenAPI/Swagger specifications.
 
-![CI](https://github.com/YOUR_USERNAME/devopsproject-apicontract/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/bakshishantanu/devopsproject-apicontract/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![Jest](https://img.shields.io/badge/tested%20with-jest-99424f)
