@@ -168,19 +168,6 @@ Located in `tests/selenium/ui.test.js` — structure is in place and ready to ex
 
 ---
 
-## 📸 Screenshots
-
-> *(Replace placeholders below with actual screenshots)*
-
-| | |
-|---|---|
-| **Unit test results** | `npm test` output in terminal |
-| **Integration tests** | `npm run test:integration` output |
-| **GitHub Actions run** | Green pipeline in Actions tab |
-| **Coverage artifact** | Artifact uploaded on CI run |
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
